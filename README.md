@@ -1,9 +1,9 @@
 ###### Kickstarting with Excel
 
-### Overview
+# Overview
     Our client, Louise is a playwright who intends to fund her play, "Fever" through the crowdfunding platform, Kickstarter. Louise has a budget of $10,000 and needs help to get a clear picture on the variables that contribute to the success or failure of a crowdfunding campaign. Through this project, we help Louise using Excel in order for her to make informed decisions to fund her play through Kickstarter and mirror other successful campaigns funded through this platform. The specific charts created to aid our analysis are the "Theater Outcomes by Launch Date" and "Outcomes vs Goals" chart.
 
-### Purpose
+# Purpose
     This analysis was designed to help our client make an informed decision on her goal to create a crowdfunding campaign for her play on Kickstarter. With data that we sorted and filtered through, we provided our client with visualizations of key data in the form of pivot charts and graphs relevant to her project’s needs. Her budget was only one of the several factors that were considered and analyzed in order to determine what would prove to be a successful campaign.
 
 ### Analysis and Challenges
