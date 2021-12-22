@@ -6,20 +6,20 @@
 # Purpose
     This analysis was designed to help our client make an informed decision on her goal to create a crowdfunding campaign for her play on Kickstarter. With data that we sorted and filtered through, we provided our client with visualizations of key data in the form of pivot charts and graphs relevant to her project’s needs. Her budget was only one of the several factors that were considered and analyzed in order to determine what would prove to be a successful campaign.
 
-### Analysis and Challenges
+# Analysis and Challenges
     Throughout the analysis, there were some challenges and roadblocks that were encountered. The primary challenge was the initial spreadsheet of Kickstars. The information was very disgorganized and lacked the necessary columns necessary to detail an accurate analysis. For example, the "Category and Subcategory" needed to be split into two separate columns. Another example is dates of the "launched_at" and "deadline" columns not being in readable format, requiring them to be converted.
     The overall organization of the initial date- or lack thereof, and the requirement of many additional fields and columns, conditional formatting, and error elimination are few examples of challenges faced throguhout this analysis.
 
-### Analysis of Outcomes Based on Launch Date
+# Analysis of Outcomes Based on Launch Date
     Viewing the Theater Outcomes by Launch Date" graph, we can conclude a few different things; Overall, there are significantly more succesfful theater campaigns compared to failed and canceled campaigns, which is already good news for our client. 
     Looking further at the data, we can determine that there is a spike in successful campaigs that were started in the month of May, though we can see that it declines until the month of September until there is one final increase in successful launches around October before the success rate once again declines.
     Looking at the failed launches, we can see that the highest point where there have been failed projects was in the month of May (which is the same month as the highest amount of successful campaign launches). Similarly, despite successful launches being higher than failed, the trends align similarly throughout the year. This suggests that other tables and graphs should be created.
     Based on the given information of this chart, we can suggest to our client that the best month to launch their campaign would be in the month of May.
 
-### Analysis of Outcomes Based on Goals
+# Analysis of Outcomes Based on Goals
     The "Outcomes Based on Goal" chart paints a clear picture for our client on the relation between the percentage of successful and failed Kickstarter campaigns and the set goal for a given project. The highest amount of successful campaigns correlates with the lowest amount of criteria that we had entered, which is any campaign with a goal of $1,000. The lowest amount of successful campaigns sits at 20% with the goal being between $25,000 and $29,999. We also see an increase in successful campaigns between $35,000 and $44,999 before it dips down to zero successful campaigns. We can conclude that based on our client's targeted budget of $10,000, they have about a 55% chance of success.
 
-### Results
+# Results
     The result of this analysis paints a clearer picture for our client, Louise in the many different factors that could affect her Kickstarter campaign. When looking at the "Theater Outcomes Based on Launch Date" chart, we can conclude that she has a high probability of yielding a successful campaign if it were to be launched in the month of May. Looking at the "Outcomes vs Goals" chart, we can see that with her budget of $10,000, the project has about a 55% chance of success.
     Looking at the first chart, "Theater Outcomes Based on Launch Date" would give Louise much confidence at the prospect of her campaign succeeding, but looking at the "Outcomes vs Goals" chart, her confidence may wane due to having only about a 55% chance of success. 
     Providing only these two charts limits us with only a correlation between goals and launch date with the outcome.
